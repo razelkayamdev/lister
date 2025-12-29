@@ -4,6 +4,8 @@ Battery-powered ESP32 device that periodically wakes from deep sleep, fetches a 
 
 This README documents the project **from the Arduino / ESP32 firmware and hardware perspective only**.
 
+ℹ️ see the server side [list-service supporting repo](https://github.com/razelkayamdev/list-service)
+
 ---
 
 ## Project Overview

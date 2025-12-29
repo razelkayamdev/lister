@@ -15,7 +15,7 @@
 
 static const char *WIFI_SSID = "";
 static const char *WIFI_PASS = "";
-static const char *ITEMS_URL = "http://example.com/list/items.pbm";
+static const char *ITEMS_URL = "http://raspberrypi4.local:3001/list/items.pbm";
 
 static constexpr uint64_t SLEEP_MINUTES = 10;
 static constexpr uint64_t uS_TO_S_FACTOR = 1000000ULL;
